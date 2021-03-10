@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\All_Workspace\Java_Workspace\PCSAutomation\.metadata\.plugins\org.eclipse.jdt.core
+3022263388.index
+3460880079.index
